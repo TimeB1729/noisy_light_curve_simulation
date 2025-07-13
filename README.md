@@ -44,7 +44,8 @@ Two light curves from the Kepler Mission are analyzed:
 
 - Understanding the role of correlated noise in astrophysical signals
 
-## 📂 Dataset Notes
+## 📁 Files
+- ['noisy-light-curve-simulation'](notebook/noisy_light_curve_simulation.ipynb): Full pipeline including synthetic simulations and Kepler star applications.
 
 - ['Kepler1.dat'](notebook/datasets/Kepler1.dat):
 Quiet star (KIC 007596240) with 16% missing data. Used for interpolation using GP.
