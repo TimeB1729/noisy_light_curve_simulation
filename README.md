@@ -46,10 +46,10 @@ Two light curves from the Kepler Mission are analyzed:
 
 ## 📂 Dataset Notes
 
-- ['Kepler1.dat'](datasets/Kepler1.dat):
+- ['Kepler1.dat'](notebook/datasets/Kepler1.dat):
 Quiet star (KIC 007596240) with 16% missing data. Used for interpolation using GP.
 
-- ['Kepler2.dat'](datasets/Kepler2.dat):
+- ['Kepler2.dat'](notebook/datasets/Kepler2.dat):
 Active rotating star (KIC 007609553). GP captures periodic variability and noise.
 
 ## 🤝 Acknowledgements
