@@ -45,8 +45,15 @@ Two light curves from the Kepler Mission are analyzed:
 - Understanding the role of correlated noise in astrophysical signals
 
 ## 📂 Dataset Notes
+
 - ['Kepler1.dat'](datasets/Kepler1.dat):
 Quiet star (KIC 007596240) with 16% missing data. Used for interpolation using GP.
 
 - ['Kepler2.dat'](datasets/Kepler2.dat):
 Active rotating star (KIC 007609553). GP captures periodic variability and noise.
+
+## 🤝 Acknowledgements
+
+This is an **independent project** developed by **Shyam Banerjee** (B.Stat., ISI Kolkata) as part of a summer exploration in astrostatistical modeling. The core ideas and motivation were inspired by the lecture notes from the **Summer School for Astrostatistics** at Penn State University, particularly the sessions by **Dr. Suzanne Aigrain** on Gaussian Processes in Astronomy.
+
+The datasets are downloaded from the `NASA/IPAC/NExScI Star And Exoplanet` archives.
