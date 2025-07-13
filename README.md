@@ -57,3 +57,10 @@ Active rotating star (KIC 007609553). GP captures periodic variability and noise
 This is an **independent project** developed by **Shyam Banerjee** (B.Stat., ISI Kolkata) as part of a summer exploration in astrostatistical modeling. The core ideas and motivation were inspired by the lecture notes from the **Summer School for Astrostatistics** at Penn State University, particularly the sessions by **Dr. Suzanne Aigrain** on Gaussian Processes in Astronomy.
 
 The datasets are downloaded from the `NASA/IPAC/NExScI Star And Exoplanet` archives.
+
+## ⚙️ Running the Notebooks
+
+All notebooks are written in Python and run on `Jupyter`. You can install the required packages with:
+
+```bash
+pip install -r requirements.txt
