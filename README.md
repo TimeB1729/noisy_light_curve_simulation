@@ -29,10 +29,10 @@ The result is a synthetic but realistic stellar light curve—ideal for testing 
 Two light curves from the Kepler Mission are analyzed:
 
 - KIC 007596240
-A relatively quiet star with 71,427 flux measurements, ~16% missing. GP is used to impute the missing values while preserving the statistical structure of the light curve.
+(A relatively quiet star with 71,427 flux measurements, ~16% missing. GP is used to impute the missing values while preserving the statistical structure of the light curve.)
 
 - KIC 007609553
-A more active, rotating star showing periodic brightness modulations due to starspots. GP is used to model both the variability and the uncertainties.
+(A more active, rotating star showing periodic brightness modulations due to starspots. GP is used to model both the variability and the uncertainties.)
 
 ## 📈 Applications
 
